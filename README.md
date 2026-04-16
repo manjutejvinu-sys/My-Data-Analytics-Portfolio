@@ -23,19 +23,27 @@ Former Content Writer passionate about Data Storytelling and Business Insights.
 ## Projects
 
 ### 1. Zomato Order Data Analytics Dashboard
+
 Tools: Power BI, Excel  
-Description: Analyzed Zomato order data to identify trends across different restaurants 
+
+Description: Analyzed Zomato order data to identify trends across different restaurants
+
 [View Live Dashboard](https://app.powerbi.com/links/UGZOvyYZ10?ctid=76f500da-4a17-4fc2-8949-ff908d113e63&pbi_source=linkShare)
 ---
 
 ### 2. Marketing Campaign Perforance Analysis Dashboard
-Tools: Power BI  
+
+Tools: Power BI
+
 Description: Analyzed the effectiveness of marketing campaigns 
-by evaluating customer engagement, conversion performance, and revenue trends.  
+
+by evaluating customer engagement, conversion performance, and revenue trends.
+
 [View Live Dashboard](https://app.powerbi.com/links/Jj9_dMfRnm?ctid=76f500da-4a17-4fc2-8949-ff908d113e63&pbi_source=linkShare)
 ---
 
 ### 3. Airline Ticket Price Analysis
+
 Tools: SQLite
  
 Description: Analyzed airline ticket pricing trends using SQL queries  
@@ -43,6 +51,7 @@ Description: Analyzed airline ticket pricing trends using SQL queries
 Dataset: (Upload file in repo)
 
 Key Queries:
+
 - Price trends
 - Airline comparison
 - Booking patterns
@@ -52,18 +61,27 @@ Live Dashboard: (Paste your link)
 ---
 
 ### 4. Chocolate Sales Dashboard
-Tools: Tableau  
-Analyzed sales performance across countries and brands  
+
+Tools: Tableau 
+
+Analyzed sales performance across countries and brands
+
 Live Dashboard: (Paste your link)
 
 ---
 
 ## Virtual Job Simulations
+
 - Tata - Data Analytics (Forage)
-  Skills: Data interpretation, Data cleaning, Data analysis, Data visualisation, communication
+  
+- Skills: Data interpretation, Data cleaning, Data analysis, Data visualisation, communication
+  
   Tool used: Power BI
+  
 - Deloitte - Data Analytics (Forage)
+  
   Skills: Data analysis & visualisation
+  
   Tool used: Tableau
 ---
 
