@@ -14,7 +14,9 @@ Former Content Writer passionate about Data Storytelling and Business Insights.
 - Excel
 - Data Modeling
 - Data Transformation
+- Power Query Editor
 - DAX
+- LinkedIn writing| Storytelling | Copywriting
 
 ---
 
@@ -22,9 +24,8 @@ Former Content Writer passionate about Data Storytelling and Business Insights.
 
 ### 1. Zomato Order Data Analytics Dashboard
 Tools: Power BI, Excel  
-Description: Analyzed Zomato order data to identify trends across different restaurents 
-Live Dashboard: (Paste your Power BI link)
-
+Description: Analyzed Zomato order data to identify trends across different restaurants 
+[View Live Dashboard](https://app.powerbi.com/links/UGZOvyYZ10?ctid=76f500da-4a17-4fc2-8949-ff908d113e63&pbi_source=linkShare)
 ---
 
 ### 2. Marketing Campaign Perforance Analysis Dashboard
@@ -35,8 +36,17 @@ by evaluating customer engagement, conversion performance, and revenue trends.
 ---
 
 ### 3. Airline Ticket Price Analysis
-Tools: SQL 
-Description: Analyzed airline ticket pricing trends  
+Tools: SQLite
+ 
+Description: Analyzed airline ticket pricing trends using SQL queries  
+
+Dataset: (Upload file in repo)
+
+Key Queries:
+- Price trends
+- Airline comparison
+- Booking patterns
+
 Live Dashboard: (Paste your link)
 
 ---
