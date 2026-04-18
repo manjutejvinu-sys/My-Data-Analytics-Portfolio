@@ -29,6 +29,7 @@ Tools: Power BI, Excel
 Description: Analyzed Zomato order data to identify trends across different restaurants
 
 [View Live Dashboard](https://app.powerbi.com/links/UGZOvyYZ10?ctid=76f500da-4a17-4fc2-8949-ff908d113e63&pbi_source=linkShare)
+
 ---
 
 ### 2. Marketing Campaign Perforance Analysis Dashboard
@@ -40,6 +41,7 @@ Description: Analyzed the effectiveness of marketing campaigns
 by evaluating customer engagement, conversion performance, and revenue trends.
 
 [View Live Dashboard](https://app.powerbi.com/links/Jj9_dMfRnm?ctid=76f500da-4a17-4fc2-8949-ff908d113e63&pbi_source=linkShare)
+
 ---
 
 ### 3. Airline Ticket Price Analysis
@@ -57,6 +59,7 @@ Key Queries:
 - Booking patterns
 
 Project pdf: (https://github.com/manjutejvinu-sys/PowerBI-Projects/blob/main/SQL%20Project.pdf)
+
 ---
 
 ### 4. Chocolate Sales Dashboard
@@ -65,7 +68,7 @@ Tools: Tableau
 
 Analyzed sales performance across countries and brands
 
-Live Dashboard: (Paste your link)
+Project pdf: (https://github.com/manjutejvinu-sys/PowerBI-Projects/blob/main/Tableau%20Project.pdf)
 
 ---
 
