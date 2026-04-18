@@ -1,5 +1,5 @@
 # My-Data-Analytics-Portfolio
-# Manju AK- Data Analytics Portfolio
+# Manju AK- Data Analyst
 
 ## About Me
 Aspiring Data Analyst with a strong focus on Power BI, Data Transformation, and Visualization. 
