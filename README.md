@@ -56,8 +56,7 @@ Key Queries:
 - Airline comparison
 - Booking patterns
 
-Live Dashboard: (Paste your link)
-
+Project pdf: (https://github.com/manjutejvinu-sys/PowerBI-Projects/blob/main/SQL%20Project.pdf)
 ---
 
 ### 4. Chocolate Sales Dashboard
