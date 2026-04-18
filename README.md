@@ -1,5 +1,5 @@
 # My-Data-Analytics-Portfolio
-# Manju Vinu - Data Analyst Portfolio
+# Manju AK- Data Analytics Portfolio
 
 ## About Me
 Aspiring Data Analyst with a strong focus on Power BI, Data Transformation, and Visualization. 
@@ -77,6 +77,9 @@ Live Dashboard: (Paste your link)
 - Skills: Data interpretation, Data cleaning, Data analysis, Data visualisation, communication
   
   Tool used: Power BI
+  
+  
+
   
 - Deloitte - Data Analytics (Forage)
   
