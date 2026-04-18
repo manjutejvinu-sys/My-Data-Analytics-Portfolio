@@ -88,6 +88,8 @@ Project pdf: (https://github.com/manjutejvinu-sys/PowerBI-Projects/blob/main/Tab
   Skills: Data analysis & visualisation
   
   Tool used: Tableau
+  Certified pdf: (https://github.com/manjutejvinu-sys/My-Certifications/blob/main/Deloitte%20Data%20Analytics%20job%20simulation.pdf)
+  
 ---
 
 ## Contact
