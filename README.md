@@ -66,7 +66,9 @@ Project pdf: (https://github.com/manjutejvinu-sys/PowerBI-Projects/blob/main/SQL
 
 Tools: Tableau 
 
-Analyzed sales performance across countries and brands
+-Analyzed sales performance across countries and brands to identify top-performing markets
+-Evaluated revenue trends by product type, sales channel, and payment methods
+-Created interactive dashboards to track KPIs and support data-driven decision making
 
 Project pdf: (https://github.com/manjutejvinu-sys/PowerBI-Projects/blob/main/Tableau%20Project.pdf)
 
@@ -74,42 +76,44 @@ Project pdf: (https://github.com/manjutejvinu-sys/PowerBI-Projects/blob/main/Tab
 
 ## Virtual Job Simulations
 
-- Tata - Data Analytics (Forage)
+##1. Tata - Data Analytics (Forage)
   
-- Skills: Data interpretation, Data cleaning, Data analysis, Data visualisation, communication
+Skills: Data interpretation, Data cleaning, Data analysis, Data visualisation, communication
   
-  Tool used: Power BI
+Tool used: Power BI
   
-  Certified pdf: (https://github.com/manjutejvinu-sys/My-Certifications/blob/main/Data%20Visualisation%20Training%20certificate%20by%20Tata.pdf)
+Certified pdf: (https://github.com/manjutejvinu-sys/My-Certifications/blob/main/Data%20Visualisation%20Training%20certificate%20by%20Tata.pdf)
   
-  ---
+ ---
 
   
-- Deloitte - Data Analytics (Forage)
+##2. Deloitte - Data Analytics (Forage)
   
-  Skills: Data analysis & visualisation
+ Skills: Data analysis & visualisation
   
-  Tool used: Tableau
+ Tool used: Tableau
   
-  Certified pdf: (https://github.com/manjutejvinu-sys/My-Certifications/blob/main/Deloitte%20Data%20Analytics%20job%20simulation.pdf)
+ Certified pdf: (https://github.com/manjutejvinu-sys/My-Certifications/blob/main/Deloitte%20Data%20Analytics%20job%20simulation.pdf)
   
----
+ ---
 
 ## Certifications
 
-- Data & Business Analytics Training by TechTip 24
-- 
-- 40+ hours of Power BI and 30+ hours of Tableau and SQLite supported by hands-on project experience
+#Data & Business Analytics Training by TechTip 24
+
+40+ hours of Power BI and 30+ hours of Tableau and SQLite supported by hands-on project experience
   
-- Tools: Power BI, Tableau & SQLite
-- Core skills:
-  Data Transformation (Power Query Editor)
-  DAX 
-  Interactive Dashboard Development
-  Power BI Service & Publishing
-  Data Visualization & Storytelling
-  SQL Queries for Complex Data extraction
+Tools: Power BI, Tableau & SQLite
+Core skills:
+-Data Transformation (Power Query Editor)
+-DAX 
+-Interactive Dashboard Development
+-Power BI Service & Publishing
+-Data Visualization & Storytelling
+-SQL Queries for Complex Data extraction
   
 ## Contact
+
 LinkedIn: www.linkedin.com/in/manjuak4404012
+
 Email: manjutejvinu@gmail.com
