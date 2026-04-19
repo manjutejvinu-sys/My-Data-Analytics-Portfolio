@@ -50,7 +50,7 @@ Tools: SQLite
  
 Description: Analyzed airline ticket pricing trends using SQL queries  
 
-Dataset: (Upload file in repo)
+Dataset: (https://github.com/manjutejvinu-sys/SQL-Dataset/blob/main/airline_ticket_prices_dataset.csv))
 
 Key Queries:
 
@@ -99,7 +99,7 @@ Certified pdf: (https://github.com/manjutejvinu-sys/My-Certifications/blob/main/
 
 ## Certifications
 
-# Data & Business Analytics Training by TechTip 24
+## Data & Business Analytics Training by TechTip 24
 
 40+ hours of Power BI and 30+ hours of Tableau and SQLite supported by hands-on project experience
   
