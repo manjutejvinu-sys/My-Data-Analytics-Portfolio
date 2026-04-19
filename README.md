@@ -1,9 +1,9 @@
-# My-Data-Analytics-Portfolio
+# My-Portfolio
 # Manju AK- Data Analyst
 
 ## About Me
 Aspiring Data Analyst with a strong focus on Power BI, Data Transformation, and Visualization. 
-Former Content Writer passionate about Data Storytelling and Business Insights.
+Former Content Writer passionate about Storytelling and Business Insights.
 
 ---
 
@@ -80,7 +80,9 @@ Project pdf: (https://github.com/manjutejvinu-sys/PowerBI-Projects/blob/main/Tab
   
   Tool used: Power BI
   
+  Certified pdf: (https://github.com/manjutejvinu-sys/My-Certifications/blob/main/Data%20Visualisation%20Training%20certificate%20by%20Tata.pdf)
   
+  ---
 
   
 - Deloitte - Data Analytics (Forage)
@@ -88,10 +90,26 @@ Project pdf: (https://github.com/manjutejvinu-sys/PowerBI-Projects/blob/main/Tab
   Skills: Data analysis & visualisation
   
   Tool used: Tableau
+  
   Certified pdf: (https://github.com/manjutejvinu-sys/My-Certifications/blob/main/Deloitte%20Data%20Analytics%20job%20simulation.pdf)
   
 ---
 
+## Certifications
+
+- Data & Business Analytics Training by TechTip 24
+- 
+- 40+ hours of Power BI and 30+ hours of Tableau and SQLite supported by hands-on project experience
+  
+- Tools: Power BI, Tableau & SQLite
+- Core skills:
+  Data Transformation (Power Query Editor)
+  DAX 
+  Interactive Dashboard Development
+  Power BI Service & Publishing
+  Data Visualization & Storytelling
+  SQL Queries for Complex Data extraction
+  
 ## Contact
 LinkedIn: www.linkedin.com/in/manjuak4404012
 Email: manjutejvinu@gmail.com
