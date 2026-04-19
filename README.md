@@ -50,7 +50,7 @@ Tools: SQLite
  
 Description: Analyzed airline ticket pricing trends using SQL queries  
 
-Dataset: (https://github.com/manjutejvinu-sys/SQL-Dataset/blob/main/airline_ticket_prices_dataset.csv))
+Dataset: (https://github.com/manjutejvinu-sys/SQL-Dataset/blob/main/airline_ticket_prices_dataset.csv)
 
 Key Queries:
 
